@@ -1,5 +1,5 @@
 # SSPVP-Epoch
-SSPVP Addon backported for Project Epoch
+SSPVP Addon ported for Project Epoch
 
 Herald yells inside Alterac Valley are changed to be more consistant and will be colored by the faction that triggered it, you can also see how many resources are gained via the Mines inside the overlay along with chat alerts when the Captains are slain by a faction. Timers for how long until graveyards, bunkers and towers are included for Arathi Basin and Alterac Valley.
 
